@@ -1,6 +1,5 @@
 ![Headshot](https://github.com/noahburrows/Portfolio/blob/main/Headshot.jpg?raw=true)
-
-# Welcome to a portfolio of my work.
+# Welcome to my Portfolio
 
 Here are a few examples of projects I've worked on:
 
