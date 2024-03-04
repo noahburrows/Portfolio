@@ -16,10 +16,10 @@ Mobile version of a todo app I called "TaskMan"
 
 ### Graphic Design
 
-![Space](https://github.com/noahburrows/Portfolio/blob/main/Headshot.jpg?raw=true)
+![Space](https://github.com/noahburrows/Portfolio/blob/main/BurrowsNoahFinalProjectGraphics.jpg?raw=true)
 An attempt to re-create a specific design for a space poster.
 
-![Todo](https://github.com/noahburrows/Portfolio/blob/main/BurrowsNoahFinalProject.jpg?raw=true)
+![Todo](https://github.com/noahburrows/Portfolio/blob/main/AppRecreation.jpg?raw=true)
 Another graphic recreation made entirely in Figma. The original app is a Sudoku game.
 
 ### Games and Mods
