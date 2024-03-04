@@ -19,16 +19,13 @@ Mobile version of a todo app I called "TaskMan"
 ![Space](https://github.com/noahburrows/Portfolio/blob/main/Headshot.jpg?raw=true)
 An attempt to re-create a specific design for a space poster.
 
-![SpaceOriginal](https://github.com/noahburrows/Portfolio/blob/main/Headshot.jpg?raw=true)
-Original poster for reference.
-
+![Todo](https://github.com/noahburrows/Portfolio/blob/main/BurrowsNoahFinalProject.jpg?raw=true)
 Another graphic recreation made entirely in Figma. The original app is a Sudoku game.
-![Todo](https://github.com/noahburrows/Portfolio/blob/main/AppRecreation.png?raw=true)
 
 ### Games and Mods
 
 ![YahtzeeGame](https://github.com/noahburrows/Portfolio/blob/main/YahtzeeProfile.png?raw=true)
 A simple text-based Yahtzee game I made for a college course.
 
-![SkyrimModOutfit](https://github.com/noahburrows/Portfolio/blob/main/Headshot.jpg?raw=true)
+![SkyrimModOutfit](https://github.com/noahburrows/Portfolio/blob/main/72850_screenshots_2015-02-15_00014.jpg?raw=true)
 One of many Skyrim mods I've made. The outfit the character is wearing is my work, not the pony.
