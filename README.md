@@ -1,11 +1,10 @@
-# Noah Burrows
 ![Headshot](https://github.com/noahburrows/Portfolio/blob/main/Headshot.jpg?raw=true)
 
-## Welcome to a portfolio of my work.
+# Welcome to a portfolio of my work.
 
 Here are a few examples of projects I've worked on:
 
-### Todo Apps
+## Todo Apps
 
 ![Todo](https://github.com/noahburrows/Portfolio/blob/main/TodoProfile.png?raw=true)
 Simple apps to keep track of tasks that need to be done. This app was made using Flutter.
@@ -14,7 +13,7 @@ Simple apps to keep track of tasks that need to be done. This app was made using
 ![Taskman2](https://github.com/noahburrows/TaskMan/blob/main/Screenshot_20230613_145720.png?raw=true)
 Mobile version of a todo app I called "TaskMan"
 
-### Graphic Design
+## Graphic Design
 
 ![Space](https://github.com/noahburrows/Portfolio/blob/main/BurrowsNoahFinalProjectGraphics.jpg?raw=true)
 An attempt to re-create a specific design for a space poster.
@@ -22,7 +21,7 @@ An attempt to re-create a specific design for a space poster.
 ![Todo](https://github.com/noahburrows/Portfolio/blob/main/AppRecreation.png?raw=true)
 Another graphic recreation made entirely in Figma. The original app is a Sudoku game.
 
-### Games and Mods
+## Games and Mods
 
 ![YahtzeeGame](https://github.com/noahburrows/Portfolio/blob/main/YahtzeeProfile.png?raw=true)
 A simple text-based Yahtzee game I made for a college course.
